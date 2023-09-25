@@ -6,12 +6,13 @@
 
 ## 01. Ubuntu 的任务栏
 
-![](media/14928321028755/14928329271228.jpg)
+![](\media\Linux_part4\Ubuntu的任务栏1.jpg)
+![](\media\Linux_part4\Ubuntu的任务栏2.jpg)
 
 ## 02. 窗口操作按钮
 
-![](media/14928321028755/14928325424356.jpg)
+![](media\Linux_part4\窗口操作按钮.jpg)
 
 ## 03. 窗口菜单条
 
-![](media/14928321028755/14928327078409.jpg)
+![](\media\Linux_part4\窗口菜单条.jpg)
